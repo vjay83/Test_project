@@ -1,0 +1,987 @@
+  Source path for Merlin-Build 64 bit -- https://code.wyse.com/svn/rapport4/home/Rapport/Imaging/trunk
+
+  WDM BUILD_SERVER = https://code.wyse.com/svn/rapport4/home/Rapport/Rapport_main/WDM45Install/WDM4.5/build%20files/swrep/BootAgentUpgradeWE8S/MerlinFiles/64/
+
+  WSI BUILD_SERVER = https://code.wyse.com/svn/rapport4/home/Rapport/WSI/WisardGUI_Manufacture_Lab/ftproot/rapport_manufacturing/Tools/sa/
+
+  USB BUILD_SERVER = https://code.wyse.com/svn/rapport4/home/Rapport/USBImagingTool 2.0/Utility/EFI/Boot
+
+  CCM BUILD_SERVER = https://code.wyse.com/svn/rapport4/home/Rapport/Imaging/Ccm_merlin_files
+
+
+
+
+
+Hi Dawei,
+
+ 
+
+     The WTOS & TERA SQA builds for version 8.4_111 is generated and available at below mentioned location :
+
+ 
+    1.WTOS build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.4/8.4_111/WTOS_SQA_8.4_111_ALL_NO
+
+     
+    2.WTOS build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.4/8.4_111/WTOS_SQA_8.4_111_ALL_JP
+    
+
+    3.TERA build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.4/8.4_111/TERA_SQA_8.4_111_ALL_NO
+
+   
+    4.TERA build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.4/8.4_111/TERA_SQA_8.4_111_ALL_JP
+   
+
+  FThinLinux
+
+  The XENITH SQA build for version 2.4_111 are generated and available at below mentioned location:
+
+ 
+
+   1.XENITH build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.4/2.4_111/XENITH_SQA_2.4_111_ALL_NO
+
+
+   2.XENITH build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.4/2.4_111/XENITH_SQA_2.4_111_ALL_JP
+
+ 
+
+UTR will be provided after testing.     
+                                                                                                                                                                 
+ Thanks,
+
+Vijay Mummigatti
+
+
+Hi Jian,
+
+The WTOS & TERA SQA builds for version 8.5_002 is generated and available at below mentioned location :
+
+1.WTOS build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.5/8.5_002/WTOS_SQA_8.5_002_ALL_NO
+
+2.TERA build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.5/8.5_002/TERA_SQA_8.5_002_ALL_NO
+
+
+
+
+
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/USB_Imaging_2.1/USB_Imaging_v2.0.9.15_r3571
+
+
+ACROBAT Addons: ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux_ThinLinux-WDM addon/SP3/11.3.111/ACROBAT/9.5.5.21.1-0.2
+
+LEXMARK_PRINTER Addons: ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux_ThinLinux-WDM addon/SP3/11.3.111/LEXMARK_PRINTER/1.1-0.1
+
+LIBREOFFICE Addons: ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux_ThinLinux-WDM addon/SP3/11.3.111/LIBREOFFICE/3.6.5.2.15-0.1
+
+PINPAD Addons: ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux_ThinLinux-WDM addon/SP3/11.3.111/PINPAD/1.0.0-00.00
+
+PUTTY Addons: ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux_ThinLinux-WDM addon/SP3/11.3.111/PUTTY/60.0-0.2
+
+
+
+
+
+
+
+
+Hi Mahesh, 
+
+Please find the ThinLinux build for version 1.0.6.1 in below mentioned path:
+
+ 
+
+Raw Image: ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.1
+
+ 
+
+Addons: ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.1/Addons
+
+ 
+
+RAW image RSP Package: ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.1/RSP_Package
+
+
+  UTR will be provided after testing as we are blocked for the lab access.
+
+ 
+
+Regards
+
+Vijay Mummigatti
+
+
+
+
+
+
+Hi Team,  
+
+Please find the ThinLinux merlin build for version 1.0.6.1 in below mentioned path,
+
+
+Merlin with RSP: ftp://blr-vw-bldimg01/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.1/merlin
+
+ 
+SanMateo : 1.0.4.2_3040_16GB_merlin.exe 
+
+
+PFA UTR.    
+
+
+Thanks,
+
+Vijay Mummigatti
+
+
+
+
+Hi Team,
+ 
+Please find the ThinLinux merlin build for version 1.0.6.1 in below mentioned path
+
+Merlin with RSP: ftp://blr-vw-bldimg01/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.1/merlin
+
+ ftp://blr-vw-bldimg01/DEV Builds/Management/64BitBuildVM/WDM_573_Build62
+
+
+ Solano:   1.0.6.1_5060_8GB_merlin.exe
+
+ Orange:  1.0.6.1_3030LT_merlin.exe
+
+ Oberon:  1.0.6.1_Z50Q_D50Q_merlin.exe
+
+
+
+PFA UTR
+
+
+Thanks,
+
+Vijay Mummigatti
+
+
+
+
+Raw Image: ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.4.1
+
+Addons: ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.4.1/Addons
+
+RAW image RSP Package: ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.4.1/RSP_Package
+
+
+
+Hi Aparajita,
+
+ 
+
+The installers are signed and copied to below locations,
+
+
+ftp://10.150.2.24/Aparajita/CitrixReceiver_Addons/WIE10/
+
+ 
+
+ftp://10.150.2.24/Aparajita/CitrixReceiver_Addons/WES7P/
+
+ 
+
+ftp://10.150.2.24/Aparajita/CitrixReceiver_Addons/WES7/
+
+ 
+
+ftp://10.150.2.24/Aparajita/CitrixReceiver_Addons/WE8S/
+
+ 
+
+Thanks,
+
+Aparajita
+
+ 
+
+
+    ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/Ubuntu/TRUNK
+
+  ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux_ThinLinux-WDM addon/ThinLinux/1.0.4/MERLIN_NONPXE_ADDON/3.5.6-00.01
+
+  ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux_ThinLinux-WDM addon/ThinLinux/1.0.4/MERLIN_NONPXE_ADDON/3.7.0-00.01
+
+============================================================================================================================
+
+
+Hi Yinghui,
+
+ 
+
+     The WTOS & TERA SQA builds for version 8.4_111 is generated and available at below mentioned location :
+
+ 
+    1.WTOS build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.4/8.4_111/WTOS_SQA_8.4_111_ALL_NO
+
+     
+    2.WTOS build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.4/8.4_111/WTOS_SQA_8.4_111_ALL_JP
+    
+
+    3.TERA build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.4/8.4_111/TERA_SQA_8.4_111_ALL_NO
+
+   
+    4.TERA build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.4/8.4_111/TERA_SQA_8.4_111_ALL_JP
+   
+
+  
+
+  The XENITH SQA build for version 2.4_111 are generated and available at below mentioned location:
+
+ 
+
+   1.XENITH build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.4/2.4_111/XENITH_SQA_2.4_111_ALL_NO
+
+
+   2.XENITH build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.4/2.4_111/XENITH_SQA_2.4_111_ALL_JP
+
+ 
+
+PFA UTR.     
+                                                                                                                                                                 
+ Thanks,
+
+Vijay Mummigatti
+
+
+
+
+
+ 1.WTOS build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.5/8.5_004/WTOS_SQA_8.5_004_ALL_NO
+
+
+ 2.TERA build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.5/8.5_004/TERA_SQA_8.5_004_ALL_NO
+
+
+ 3.XENITH build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.5/2.5_004/XENITH_SQA_2.5_004_ALL_NO
+
+
+
+
+*IOT*.zip
+
+
+Management/WDA/UnifiedBuilds/WDA_Rev${SVN_REVISION}_Bld${BUILD_NUMBER}/IOT
+
+
+Management/WDA/UnifiedBuilds/WDA_Rev${SVN_REVISION}_Bld${BUILD_NUMBER}/UWDA
+
+
+
+
+
+
+Hi Jian,
+
+
+
+WTOS build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.5/8.5_005/WTOS_SQA_8.5_005_ALL_NO
+
+
+WTOS build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.5/8.5_005/WTOS_SQA_8.5_005_ALL_JP
+
+
+TERA build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.5/8.5_005/TERA_SQA_8.5_005_ALL_NO
+
+
+TERA build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.5/8.5_005/TERA_SQA_8.5_005_ALL_JP
+
+
+XENITH build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.5/2.5_005/XENITH_SQA_2.5_005_ALL_NO
+
+
+XENITH build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.5/2.5_005/XENITH_SQA_2.5_005_ALL_JP
+
+
+PFA UTR
+
+
+Thanks,
+
+Vijay Mummigatti
+
+
+
+
+Hi Yinghui,
+
+ 
+
+     The WTOS & TERA HF builds for version 8.4_112 is generated and available at below mentioned location :
+
+
+WTOS build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.4/8.4_112/WTOS_HF_8.4_112_ALL_NO
+
+WTOS build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.4/8.4_112/WTOS_HF_8.4_112_ALL_JP
+
+TERA build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.4/8.4_112/TERA_HF_8.4_112_ALL_NO
+
+TERA build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.4/8.4_112/TERA_HF_8.4_112_ALL_JP
+
+
+   The XENITH HF build for version 2.4_112 are generated and available at below mentioned location:
+
+1.XENITH build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.4/2.4_112/XENITH_HF_2.4_112_ALL_NO
+
+2.XENITH build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.4/2.4_112/XENITH_HF_2.4_112_ALL_JP
+
+
+UTR will be provided after testing.
+
+Thanks,
+
+Vijay Mummigatti
+
+
+
+
+Hi Jian,
+
+         The WTOS & TERA SQA builds for version 8.5_006 is generated and available at below mentioned location :
+
+
+1. WTOS build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.5/8.5_006/WTOS_SQA_8.5_006_ALL_NO
+
+
+2. WTOS build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.5/8.5_006/WTOS_SQA_8.5_006_ALL_JP
+
+
+3. TERA build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.5/8.5_006/TERA_SQA_8.5_006_ALL_NO
+
+
+4. TERA build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.5/8.5_006/TERA_SQA_8.5_006_ALL_JP
+
+
+	The XENITH SQA build for version 2.5_006 are generated and available at below mentioned location:
+
+
+1.XENITH build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.5/2.5_006/XENITH_SQA_2.5_006_ALL_NO
+
+
+2.XENITH build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.5/2.5_006/XENITH_SQA_2.5_006_ALL_JP
+
+
+UTR will be provided after testing.
+
+Thanks,
+
+Vijay Mummigatti
+
+
+
+
+HI Mahesh,
+
+
+PUTTY Addons: ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux_ThinLinux-WDM_addon/SP3/11.3.110/PUTTY/60.0-0.3
+
+
+LIBREOFFICE Addons: ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux_ThinLinux-WDM_addon/SP3/11.3.110/LIBREOFFICE/3.6.5.2.15-0.2
+
+
+
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Management/64BitBuildVM/WDM_573_Build40
+======================================================================================================================================
+
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Windows/Addons/Vmware_Installer/WE8S
+
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Windows/Addons/Vmware_Installer/WES7
+
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Windows/Addons/Vmware_Installer/WES7P
+
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Windows/Addons/Vmware_Installer/WIE10
+
+Signed Installer for WE8S -- VMwareHorizonClient_4_6_1_WE8S.exe
+
+Signed Installer for WES7 -- VMwareHorizonClient_4_6_1_WES7.exe
+
+Signed Installer for WES7P -- VMwareHorizonClient_4_6_1_WES7P.exe
+
+Signed Installer for WIE10 -- VMwareHorizonClient_4_6_1_WIE10.exe
+
+===========================================================================================================================================
+
+
+
+
+Hi Amiya, 
+
+Please find the ThinLinux build for version 1.0.6.1 in below mentioned path:
+
+
+Raw Image : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.1_ThinLinux
+
+
+Addons : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.1_ThinLinux/Addons
+
+
+RAW image RSP Package : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.1_ThinLinux/RSP_Package
+
+
+PFA UTR.
+ 
+
+Regards
+
+Vijay Mummigatti
+
+
+
+
+
+
+Hi Amiya, 
+
+Please find the ThinLinux_SanMateo build for version 1.0.6.1 in below mentioned path:
+
+
+Raw Image : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.1_SanMateo
+
+
+Addons : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.1_SanMateo/Addons
+
+
+RAW image RSP Package : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.1_SanMateo/RSP_Package
+
+
+PFA UTR.
+ 
+
+Regards
+
+Vijay Mummigatti
+
+
+
+Hi Amiya, 
+
+Please find the ThinLinux_SanMateo build for version 1.0.6.3 in below mentioned path:
+
+
+Raw Image : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.3_SanMateo
+
+
+Addons : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.3_SanMateo/Addons
+
+
+RAW image RSP Package : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.3_SanMateo/RSP_Packaged
+
+
+PFA UTR.
+ 
+
+Regards
+
+Vijay Mummigatti
+
+
+
+
+
+
+
+Hi Team,  
+
+Please find the ThinLinux_3040_1.0.6.3_16GB merlin build available at below mentioned path,
+
+
+Merlin with RSP: ftp://blr-vw-bldimg01/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.3_SanMateo/merlin
+
+ 
+SanMateo : 1.0.6.3_3040_16GB_merlin.exe
+
+
+PFA UTR.    
+
+
+Thanks,
+
+Vijay Mummigatti
+
+
+
+
+
+
+Hi Shichun,
+
+    The WTOS & TERA SQA builds for version 8.5_102 is generated and available at below mentioned location :
+
+
+1. WTOS build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.5/8.5_102/TERA_SQA_8.5_102_PX10_NO
+
+
+2. WTOS build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.5/8.5_102/WTOS_SQA_8.5_102_X10_JP
+
+
+3. TERA build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.5/8.5_102/TERA_SQA_8.5_102_PX10_NO
+
+
+4. TERA build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.5/8.5_102/TERA_SQA_8.5_102_PX10_JP
+
+	
+
+UTR will be provided after testing.
+
+Thanks,
+
+Vijay Mummigatti
+
+
+
+
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/WyseEasySetup/20171122/1.0.0.1597
+
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/SuperWyse/20171122/1.0.0.1592
+
+
+==============================================================================================================================
+
+Hi Jian,
+
+         The WTOS & TERA SQA builds for version 8.5_007 is generated and available at below mentioned location :
+
+
+1. WTOS build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.5/8.5_007/WTOS_SQA_8.5_007_ALL_NO
+
+
+2. WTOS build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.5/8.5_007/WTOS_SQA_8.5_007_ALL_JP
+
+
+3. TERA build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.5/8.5_007/TERA_SQA_8.5_007_ALL_NO
+
+
+4. TERA build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.5/8.5_007/TERA_SQA_8.5_007_ALL_JP
+
+
+	The XENITH SQA build for version 2.5_007 are generated and available at below mentioned location:
+
+
+1.XENITH build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.5/2.5_007/XENITH_SQA_2.5_007_ALL_NO
+
+
+2.XENITH build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.5/2.5_007/XENITH_SQA_2.5_007_ALL_JP
+
+
+UTR will be provided after testing.
+
+Thanks,
+
+Vijay Mummigatti
+
+
+
+
+
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Windows/Addons/Intel_Wireless_Installer/Signed
+
+
+
+
+
+
+
+Hi Amiya,
+ 
+Please find the ThinLinux merlin build for version 1.0.6.1 in below mentioned path
+
+Merlin with RSP: ftp://blr-vw-bldimg01/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.1_ThinLinux/merlin
+d
+
+ Solano:   1.0.6.1_5060_merlin.exe
+
+ Orange:  1.0.6.1_3030LT_merlin.exe
+
+ Oberon:  1.0.6.1_Z50Q_D50Q_merlin.exe
+
+
+
+PFA UTR
+
+
+Thanks,
+
+Vijay Mummigatti
+
+
+ftp://blr-vw-bldimg01/DEV Builds/Management/64BitBuildVM/WDM_573_Build64
+
+
+
+Hi Shichun,
+
+         The WTOS & TERA REL builds for version 8.5_008 is generated and available at below mentioned location :
+
+
+1. WTOS build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.5/8.5_008/WTOS_REL_8.5_008_ALL_NO
+
+
+2. WTOS build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.5/8.5_008/WTOS_REL_8.5_008_ALL_JP
+
+
+3. TERA build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.5/8.5_008/TERA_REL_8.5_008_ALL_NO
+
+
+4. TERA build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.5/8.5_008/TERA_REL_8.5_008_ALL_JP
+
+
+	The XENITH REL build for version 2.5_008 are generated and available at below mentioned location:
+
+
+1.XENITH build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.5/2.5_008/XENITH_REL_2.5_008_ALL_NO
+
+
+2.XENITH build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.5/2.5_008/XENITH_REL_2.5_008_ALL_JP
+
+
+UTR will be provided after testing.
+
+Thanks,
+
+Vijay Mummigatti
+
+
+https://code.wyse.com/svn/rapport4/home/Rapport/Rapport_main/Common/libcurl/curl-7.55.1/build/Win64/VC11/DLLRelease-DLLOpenSSL
+
+https://code.wyse.com/svn/rapport4/home/Rapport/Rapport_main/Common/libcurl/curl-7.55.1/build/Win32/VC11/DLLRelease-DLLOpenSSL
+
+make[4]: *** No rule to make target '.svn/wc.db', needed by 'include/rdp_version.h'.  Stop.
+make[4]: Leaving directory '/home/dell/trunk/wyse/packages/WYSE_RDPCLIENT/gui/rdpclient'
+Makefile:71: recipe for target 'sub-build' failed
+make[3]: *** [sub-build] Error 2
+make[3]: Leaving directory '/home/dell/trunk/wyse/packages/WYSE_RDPCLIENT/gui'
+/home/dell/trunk//ubuntu-mk/deb.mk:161: recipe for target 'build' failed
+make[2]: *** [build] Error 2
+make[2]: Leaving directory '/home/dell/trunk/wyse/packages/WYSE_RDPCLIENT'
+Makefile:289: recipe for target 'WYSE_RDPCLIENT' failed
+make[1]: *** [WYSE_RDPCLIENT] Error 2
+make[1]: Leaving directory '/home/dell/trunk/wyse/packages'
+Makefile:71: recipe for target 'compile' failed
+make: *** [compile] Error 2
+make: Leaving directory '/home/dell/trunk/wyse'
+/home/dell/trunk/ubuntu-mk/Ubuntu.mk:192: recipe for target 'build_only' failed
+make: *** [build_only] Error 2
+
+
+/home/dell/trunk/wyse/packages
+
+ftp://blr-vw-bldimg01/DEVBuilds/Linux/Official_Builds/ThinLinux/Ubuntu/Ubuntu_2.0.0.9
+
+
+
+
+Hi Amiya, 
+
+Please find the ThinLinux build for version 1.0.6.5 in below mentioned path:
+
+
+Raw Image : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.5
+
+
+Addons : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.5/Addons
+
+
+RAW image RSP Package : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.5/RSP_Package
+
+
+UTR will be provided after testing.
+ 
+
+Regards
+
+Vijay Mummigatti
+
+
+Hi Amiya, 
+
+Please find the ThinLinux build for version 1.0.6.5 in below mentioned path:
+
+
+Raw Image : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.5
+
+
+Addons : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.5/Addons
+
+
+RAW image RSP Package : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.5/RSP_Package
+
+
+PFA dUTR.
+ 
+
+Regards
+
+Vijay Mummigatti
+
+Hi Amiya,
+ 
+Please find the ThinLinux merlin build for version 1.0.6.4 in below mentioned path
+
+Merlin with RSP: ftp://blr-vw-bldimg01/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.4/merlin
+d
+
+ Solano:  1.0.6.4_5060_16GB_merlin.exe
+
+ Orange:  1.0.6.4_3030LT_merlin.exe
+
+ Oberon:  1.0.6.4_Z50Q_D50Q_merlin.exe
+
+
+
+PFA UTR
+
+
+Thanks,
+
+Vijay Mummigatti
+
+
+cd /home/dell/Jenkins/
+sudo rm -rvf trunk
+cd /home/dell/Jenkins/
+sudo rm -rvf *.tgz
+sudo rm -rvf *.bundle
+svn checkout https://code.wyse.com/svn/linux/home/ThinLinux/trunk
+echo SVN-Revision : ${SVN_REVISION}
+echo BUILD_VERSION=1.0.0.${SVN_REVISION} 
+echo %BUILD_VERSION% 
+echo %BUILD_VERSION% > /home/dell/Jenkins/trunk/wyse/packages/WYSE_UBUNTU_INIT/data.Ubuntu/etc/build
+cd trunk
+make
+cp /home/dell/Jenkins/workspace/Ubuntu_2.0_Build/trunk/RELEASE/*.tgz /home/dell/Jenkins/
+cp /home/dell/Jenkins/workspace/Ubuntu_2.0_Build/trunk/RELEASE/*.bundle /home/dell/Jenkins/
+
+
+=============================================================================================================================================================ISO LINK==========================================================================================================
+
+http://intranet.dell.com/pg/Wyse/Functional%20Teams/Wyse%20Engineering/WyseEngISOContent/SitePages/Documented%20Information.aspx             <http://intranet.dell.com/pg/Wyse/Functional%20Teams/Wyse%20Engineering/WyseEngISOContent/SitePages/Documented%20Information.aspx> 
+
+=============================================================================================================================================================ISO LINK============================================================================================================== 
+
+Hi Shichun,
+
+         The WTOS & TERA REL builds for version 8.5_104 is generated and available at below mentioned location :
+
+
+1. WTOS build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.5/8.5_104/WTOS_SQA_8.5_104_ALL_NO
+
+
+2. WTOS build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.5/8.5_104/WTOS_SQA_8.5_104_ALL_JP
+
+
+3. TERA build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.5/8.5_104/TERA_SQA_8.5_104_ALL_NO
+
+
+4. TERA build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.5/8.5_104/TERA_SQA_8.5_104_ALL_JP
+
+
+	The XENITH REL build for version 2.5_104 are generated and available at below mentioned location:
+
+
+1.XENITH build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.5/2.5_104/XENITH_SQA_2.5_104_ALL_NO
+
+
+2.XENITH build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.5/2.5_104/XENITH_SQA_2.5_104_ALL_JP
+
+
+UTR will be provided after testing.
+
+Thanks,
+
+Vijay Mummigatti
+
+
+svn cp https://code.wyse.com/svn/linux/home/ThinLinux/trunk https://code.wyse.com/svn/linux/home/ThinLinux/branches/2.0.0.10 -m "Branching out to 2.0.0.10"
+
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/Ubuntu/Ubuntu_2.0_build/2.0.0.10
+
+
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux_ThinLinux-WDM addon/ThinLinux/1.0.6.5/MERLIN_NONPXE/3.7.3-00.01
+
+
+For WE8S_Apps
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Jenkins/WE8SApps/64Bit/WE8SAppsx64_Builds_r14044_69 
+
+For WES7_Apps
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Jenkins/WE7Apps/64Bit/WES7Appsx64_Builds_r14044_69
+
+For DTDC App
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Jenkins/DellThinClientApp/r14044_69
+
+For Installer_MSI
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Jenkins/WE8SApps/64Bit/WE8SAppsx64_Builds_r14044_69/MSI
+
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/WyseEasySetup/20180101/1.0.0.2823 (From MainBranch)
+
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/WyseEasySetup/20180101/1.0.0.2827 (From Test-Branch1)
+
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/WyseEasySetup/20180101/1.0.0.2820 (From Test-Branch2)
+
+r6Vl6XSO
+
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/USB_Imaging_2.1/USB_Imaging_r27975
+
+ftp://blr-vw-bldimg01.wyse.com/DEVBuilds/Linux_ThinLinux-WDMaddon/ThinLinux/2.0.0.10/MERLIN_NONPXE/3.7.3-00.02
+
+
+
+
+Hi Amiya, 
+
+Please find the ThinLinux build for version 1.0.6.6 in below mentioned path:
+
+
+Raw Image : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.6
+
+
+Addons : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.6/Addons
+
+
+RAW image RSP Package : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.6/RSP_Package
+
+
+
+
+Please find the ThinLinux build for version 1.0.6.7 in below mentioned path:
+
+
+Raw Image : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.7
+
+
+Addons : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.7/Addons
+
+
+RAW image RSP Package : ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.7/RSP_Package
+
+
+UTR will be provided after testing.
+
+
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Management/64BitBuildVM/WDM_573_Build79
+
+Regards,
+Vijay Mummigatti
+
+
+
+
+ftp://blr-vw-bldimg01.wyse.com/DEVBuilds/Linux_ThinLinux-WDMaddon/ThinLinux/2.0.0.10/MERLIN_NONPXE/3.7.3-00.02SAn
+
+
+
+
+
+Hi Amiya,
+ 
+Please find the ThinLinux merlin build for version 1.0.6.4 in below mentioned path
+
+Merlin with RSP: ftp://blr-vw-bldimg01/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.6/merlin
+
+
+ Solano:  1.0.6.6_5060_16GB_merlin.exe
+
+ Orange:  1.0.6.6_3030LT_merlin.exe
+
+ Oberon:  1.0.6.6_Z50Q_D50Q_merlin.exe
+
+
+
+PFA UTR
+
+
+Thanks,
+
+Vijay Mummigatti
+
+
+Hi Shichun,
+
+         The WTOS & TERA REL builds for version 8.5_105 is generated and available at below mentioned location :
+
+
+1. WTOS build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.5/8.5_105/WTOS_SQA_8.5_105_ALL_NO
+
+2. WTOS build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.5/8.5_105/WTOS_SQA_8.5_105_ALL_JP
+
+
+3. TERA build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.5/8.5_105/TERA_SQA_8.5_105_ALL_NO
+
+
+4. TERA build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.5/8.5_105/TERA_SQA_8.5_105_ALL_JP
+
+
+	The XENITH REL build for version 2.5_105 are generated and available at below mentioned location:
+
+
+1.XENITH build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.5/2.5_105/XENITH_SQA_2.5_105_ALL_NO
+
+
+2.XENITH build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.5/2.5_105/XENITH_SQA_2.5_105_ALL_JP
+
+
+UTR will be provided after testing.
+
+Thanks,
+
+Vijay Mummigatti
+
+
+ftp://blr-vw-bldimg01.wyse.com/DEV Builds/Windows/Addons/Vmware_Installer_4_7/signed_Binaries
+
+
+
+Hi Amiya,
+ 
+Please find the ThinLinux merlin build for version 1.0.6.7 in below mentioned path
+
+Merlin with RSP: ftp://blr-vw-bldimg01/DEV Builds/Linux/Official_Builds/ThinLinux/1.0.6.7/merlin
+
+3040 : 1.0.6.7_3040_16GB_merlin.exe
+
+PFA UTR
+
+
+Thanks,
+d
+Vijay Mummigatti
+
+ftp://blr-vw-bldimg01/DEV Builds/USB_Imaging_3.0/USB_Imaging_r28002
+
+
+
+
+Hi Aaroon,
+
+         The WTOS & TERA REL builds for version 8.5_009 is generated and available at below mentioned location :
+
+
+1. WTOS build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.5/8.5_009/WTOS_REL_8.5_009_ALL_NO
+
+2. WTOS build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/WTOS_8.5/8.5_009/WTOS_REL_8.5_009_ALL_JP
+
+3. TERA build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.5/8.5_009/TERA_REL_8.5_009_ALL_NO
+
+
+4. TERA build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/TERA_8.5/8.5_009/TERA_REL_8.5_009_ALL_JP
+
+
+	The XENITH REL build for version 2.5_009 are generated and available at below mentioned location:
+
+
+1.XENITH build LOCALIZATION=NO: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.5/2.5_009/XENITH_REL_2.5_009_ALL_NO
+
+
+2.XENITH build LOCALIZATION=JP: ftp://sjc-vw-prdimg01.wyse.com/ThinOS_Demo/XENITH_2.5/2.5_009/XENITH_REL_2.5_009_ALL_JP
+
+
+PFA UTR.
+
+Regards,
+
+Vijay Mummigatti
+
+
+ftp://blr-vw-bldimg01.wyse.com/DEVBuilds/Linux_ThinLinux-WDMaddon/ThinLinux/1.0.6.2/UNIFIEDADDON/1.0.0-00.02
